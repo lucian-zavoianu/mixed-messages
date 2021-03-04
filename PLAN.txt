@@ -1,0 +1,14 @@
+============
+Project Plan
+============
+
+1. Create required files (JS/HTML)
+2. Run project locally
+3. Connect the files and make sure they work
+4. Create repository
+5. Make initial commit to repository
+6. Choose message topic (childhood board games)
+7. Create messages object
+8. Add required arrays to object: participants, actions, games
+9. Declare random indexers for each of the previously created arrays
+10. Create a function to output the message to the user
