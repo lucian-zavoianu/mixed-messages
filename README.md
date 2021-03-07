@@ -1,5 +1,5 @@
-#mixed-messages
+# mixed-messages
 
-##Description
+## Description
 
-Random message generator application that, when executed, will output the message to the user.
+Random message generator application that, when executed, will output the message to the user
